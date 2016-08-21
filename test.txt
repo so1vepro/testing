@@ -1,0 +1,19 @@
+bootstrap 3
+clearfix 
+col-md-offset-1
+col-md-push-6: day ve
+col-md-pull-6: keo ve
+col-md-offset-4
+test-success
+ul>li*3
+Ctrl + Cick chuot => chon nhieu doi tuong
+table table-bordered table-horver
+table-striped
+div.table-responsive
+class= "form-group"
+class= "form-control"
+class = btn btn-primary
+control-labe
+li.divider tao mot doan gach ngang
+bootstrap 3 theo huong reponsive va mobi first nen se khong co hover se hien thi ra
+hieu ung bootstrap fade
