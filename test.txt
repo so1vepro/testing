@@ -19,3 +19,4 @@ bootstrap 3 theo huong reponsive va mobi first nen se khong co hover se hien thi
 hieu ung bootstrap fade
 dong
 dong2 da them
+them issue
